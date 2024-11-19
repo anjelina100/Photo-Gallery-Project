@@ -1,0 +1,357 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Playfair Display', serif;
+  background: #92928b;
+}
+h5 {
+  color: #ebe5e5;
+}
+h3 {
+  color: #ebe5e5;
+}
+h4 {
+ color: #171616; 
+}
+
+.bio{
+  text-align: center;
+}
+.pics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.first-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+  
+}
+.second-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+  margin-bottom: 140px;
+}
+.third-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+  align-content: center;
+}
+.fourth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.fith-pic {
+   height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.sixth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.seventh-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+  
+}
+.eighth-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.ninth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.tenth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.eleventh-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.twelfth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.thirteen-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.fourteen-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.fifteen-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.sixteenth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.seventeenth-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.eighteenth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.nineteenth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentieth-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentyfirst-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentysecond-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.twentythird-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.twentyfourth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.twentyfifth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentysixth-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentyseventh-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 25px;
+}
+.twentyeighth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.twentyninth-pic {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.thirtieth-pic {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  border: 5px solid #d3d3ca;
+  margin: 10px;
+}
+.first-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.second-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+.third-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.fourth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+.fifth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sixth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+.seventh-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.eighth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+.nineth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.tenth-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
